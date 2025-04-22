@@ -1,0 +1,58 @@
+# ======================
+# Visual Studio 生成文件
+# ======================
+
+# IDE 临时目录
+.vs/
+.vscode/
+*.VC.db
+*.VC.VC.opendb
+
+# 编译输出目录
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.log
+
+# 中间文件
+*.aps
+*.ilk
+*.pdb
+*.obj
+*.tlog
+*.idb
+*.pch
+*.res
+*.exp
+*.lib
+*.exe
+*.iobj
+*.ipdb
+
+# 用户个性化文件 (不应共享)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ======================
+# 必须保留的项目文件
+# ======================
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
+!*.rc
+!Resource.h
+!*.def
+!*.manifest
+
+# ======================
+# 其他开发工具生成文件
+# ======================
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
